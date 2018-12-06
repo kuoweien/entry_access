@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">entry_access</string>
+    <string name="booking">預約房間</string>
+    <string name="name">姓名</string>
+    <string name="dotor_id">醫師編號</string>
+    <string name="login">登入</string>
+    <string name="check">確認</string>
+    <string name="name2">姓名</string>
+    <string name="gender">性別</string>
+    <string name="birth">生日</string>
+    <string name="id">身分證字號</string>
+    <string name="phone">手機號碼</string>
+    <string name="info_name">姓名</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="完成">完成</string>
+    <string name="基本資料">基本資料</string>
+    <string name="男">男</string>
+    <string name="女">女</string>
+    <string name="預約">預約</string>
+</resources>
